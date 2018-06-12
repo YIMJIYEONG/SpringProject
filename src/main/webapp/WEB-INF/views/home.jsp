@@ -6,9 +6,9 @@
 </head>
 <body>
 <h1>
-	Hello world!  
+	Git hub 테스트입니다
 </h1>
 
-<P>  The time on the server is ${serverTime}. </P>
+<P>  Spring test </P>
 </body>
 </html>
